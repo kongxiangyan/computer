@@ -48,7 +48,7 @@
 
 🔗 [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 
-下载或在`Execute/cheat sheet`中找。
+下载。
 
 长按⌘呼出。
 
