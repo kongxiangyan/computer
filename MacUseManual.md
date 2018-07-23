@@ -1,5 +1,7 @@
 ## MacUseManual
 
+sudo spctl --master-disable
+
 ### 应用安装
 
 #### Chrome
