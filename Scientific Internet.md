@@ -22,4 +22,4 @@ sudo apt-get install shadowsocks-qt5
 
 #### Android客户端
 
-:link: [shadowsocks-andriod - Github](https://github.com/shadowsocks/shadowsocks-android/releases) ​
+:link: [shadowsocks-andriod - Github](https://github.com/shadowsocks/shadowsocks-android/releases) 
