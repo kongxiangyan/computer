@@ -6,7 +6,7 @@ Git官网直接[下载安装程序](https://git-scm.com/downloads) ，安装完�
 
 安装完成后，还需要最后一步设置，在命令行输入：
 
-```
+```bash
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 ```
