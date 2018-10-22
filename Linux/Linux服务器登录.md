@@ -8,6 +8,8 @@
 | Linux            | WebShell 登录 VNC 登录 SSH 登录 密钥登录         |                               |
 | Mac OS           | WebShell 登录 VNC 登录 SSH 登录 密钥登录         |                               |
 
+> **VNC**（Virtual Network Computing），为一种使用RFB协议的显示屏画面分享及远程操作软件。此软件借由网上，可发送键盘与鼠标的动作及即时的显示屏画面。
+
 ## 前提条件
 
 ### 使用密码登录的前提条件
