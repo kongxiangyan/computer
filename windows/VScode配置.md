@@ -1,3 +1,17 @@
+## 设置
+
+https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+
+access-token: vscode-settings-sync f695b5efc4d541c388675192606f53d552ae14c8
+
+GitHub Token: f695b5efc4d541c388675192606f53d552ae14c8
+
+GitHub Gist: 38ea373bdf13410d249f156b3815661a
+
+GitHub Gist Type: Secret
+
+## 拓展
+
 ### Auto Close Tag
 
 ### Auto Rename Tag
@@ -52,4 +66,6 @@ If there are HTML or JS files on your workspace, the extension automatically sta
     "easysass.targetDir": "",
 }
 ```
+
+### Angular 7 Snippets
 
