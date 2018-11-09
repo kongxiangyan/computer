@@ -7,7 +7,8 @@
 :link:  https://secure.phabricator.com/book/phabricator/article/installation_guide/
 
 ```bash
-$ cd somewhere / # pick some install directory
+# pick some install directory
+$ cd somewhere / # $ cd /home/ubuntu/software/phacility/
 comewhere / $ git clone https://github.com/phacility/libphutil.git 
 somewhere / $ git clone https://github.com/phacility/arcanist.git 
 somewhere / $ git clone https://github.com/phacility/phabricator.git
